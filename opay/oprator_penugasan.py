@@ -1,0 +1,19 @@
+a = 5 #penjumblahan
+b = 6 #pengurangan
+c = 8 #perkalian
+d = 3 #pembagian 
+e = 16 #modulus
+f = 2 #pangkat
+
+a =+ 5
+print("penjumblahan a =", a)
+b -= 6
+print("pengurangan b =", b)
+c *= 8
+print("perkalian c =", c)
+d /= 3
+print("pembagian d =/", d)
+e %= 16
+print("modulus e =%", e)
+f **= 2
+print("pangkat f =**", f)
